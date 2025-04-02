@@ -1,4 +1,4 @@
-FROM golang:1.18-stretch AS plugin-build
+FROM golang:1.24-stretch AS plugin-build
 
 WORKDIR /go/app
 
