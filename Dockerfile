@@ -1,4 +1,4 @@
-FROM golang:1.24-bookwarm AS plugin-build
+FROM golang:1.24-bookworm AS plugin-build
 
 WORKDIR /go/app
 
