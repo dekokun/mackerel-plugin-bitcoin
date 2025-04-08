@@ -1,6 +1,6 @@
 module github.com/dekokun/mackerel-plugin-bitcoin
 
-go 1.24
+go 1.24.0
 
 require (
 	github.com/btcsuite/btcd v0.24.2
